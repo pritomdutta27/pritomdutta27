@@ -440,13 +440,21 @@ I'm particularly interested in growing toward **technical leadership and softwar
 # 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritomdutta27&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritomdutta27&layout=compact&theme=transparent&hide_border=true" height="180"/>
+  <a href="https://github.com/pritomdutta27">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=pritomdutta27"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritomdutta27&theme=transparent&hide_border=true" />
-</p>
+  <a href="https://github.com/pritomdutta27?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View repositories"
+    />
+  </a>
 
 ---
 
